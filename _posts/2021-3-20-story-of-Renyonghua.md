@@ -2,6 +2,7 @@
 title: "中国最年轻女院士任咏华"
 subtitle: "谁说女子不如男"
 author: "Xuanyi Lu"
+avatar: "assets/images/666.jpg"
 image: "assets/images/001.jpg"
 ---
 
